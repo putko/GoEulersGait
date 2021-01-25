@@ -10,8 +10,8 @@ First line contains ***T*** that denotes the number of test cases. This is follo
 
 **Constraints**
 
- - 1 &le; **T** &le; $10^5$
- - 1 &le; **N** &le; $10^9$
+ - 1 &le; **T** &le; 100000
+ - 1 &le; **N** &le; 1000000000
 
 **Output Format**
 
